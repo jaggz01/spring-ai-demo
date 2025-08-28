@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: spring-ai-demo
+  ai:
+    ollama:
+      base-url: http://localhost:11434
+
+
+
+
+ai:
+  ollama:
+    model: llama3.2
+
